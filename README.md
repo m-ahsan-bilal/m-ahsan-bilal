@@ -13,7 +13,7 @@
 
 > “Turning creative ideas into functional, AI-powered experiences.”  
 
-🎓 CS Student | 💻 Flutter Developer | 🧠 AI Learner | 🌎 Open for Remote Internships (US-based preferred)  
+🎓 CS Student | 💻 Flutter Developer | 🧠 AI Learner | 🌎 Open for Remote roles and collaborations (US-based preferred)  
 
 I’m passionate about crafting beautiful, scalable, and smart applications that make real-world impact.  
 Currently blending **Flutter + FastAPI + Next.js** to build intelligent products with sleek designs.
@@ -25,7 +25,7 @@ Currently blending **Flutter + FastAPI + Next.js** to build intelligent products
 - ⚙️ **Backends & APIs** with Python FastAPI  
 - 🧠 **AI-driven experiences** with OpenAI, Gemini & LangChain  
 - 💻 **Modern web apps** with Next.js + TailwindCSS  
-- 🗂️ **RAG-based Chatbots** (LangChain + ChromaDB)
+- 🗂️ **RAG-based Chatbots** (Anthropic + Langchain + HuggingFace)
 
 ---
 
@@ -39,21 +39,29 @@ Currently blending **Flutter + FastAPI + Next.js** to build intelligent products
 
 ## 🚀 Featured Projects  
 
+🧠 **Trivia Chat AI** — *AI-Powered Chat App with trivia play*  
+🔹 Flutter + Gemini API  + Fast Api + HuggingFace 
+🔗 [View Project](https://github.com/m-ahsan-bilal/AI-Chat-Trivia-Game)
+
 🧠 **Tube Scriptor** — *AI-Powered YouTube Script Generator*  
 🔹 Flutter + Gemini API + MVVM Architecture  
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/m-ahsan-bilal/Tube-Scriptor-AI)
 
-🤖 **Smart Contact Bot** — *Chatbot for portfolios & clients*  
-🔹 FastAPI + Flutter Web + Email Automation  
-🔗 [View Project](#)
+🤖 **Sketch AR APP** — *sketch ar app*  
+🔹 Flutter + Supabase 
+🔗 [View Project](https://github.com/m-ahsan-bilal/sketch-_ar_mobile_app?tab=readme-ov-file)
 
-💼 **Next.js Portfolio** — *Interactive AI-integrated personal site*  
-🔹 Next.js + FastAPI + Resend + Vercel  
-🔗 [View Project](#)
+💼 **Next.js pomodoro** — *Interactive pomodoro producticity web page*  
+🔹 Next.js + FastAPI + Vercel  
+🔗 [View Project](https://github.com/m-ahsan-bilal/pomodoro-next.js)
 
-🛍️ **E-Commerce Prototype** — *Modern shopping app with animations*  
+🛍️ **E-Commerce Web APP** — *Modern shopping app with animations and admin panel*  
 🔹 Flutter + Firebase + Custom UI  
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/m-ahsan-bilal/sweetchickwardrobe)
+
+🛍️ **Restaurant App** — *Modern Food Delivery app with admin panel*  
+🔹 Flutter + Firebase + Custom UI  
+🔗 [View Project](https://github.com/m-ahsan-bilal/rhombix_technologies_tasks)
 
 ---
 
@@ -71,8 +79,7 @@ Currently blending **Flutter + FastAPI + Next.js** to build intelligent products
 ---
 
 ## 📈 Current Focus
-
-- 🧩 **LangChain + ChromaDB** → RAG Chatbots  
+  
 - 🐍 **FastAPI & Automation** → AI + Backend integration  
 - 🧱 **Flutter MVVM + GetX** → Clean Architecture  
 - ⚡ **Next.js 15 + Server Actions** → Modern Web Stack  
