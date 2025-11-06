@@ -40,18 +40,18 @@ Currently blending **Flutter + FastAPI + Next.js** to build intelligent products
 ## 🚀 Featured Projects  
 
 🧠 **Trivia Chat AI** — *AI-Powered Chat App with trivia play*  
-🔹 Flutter + Gemini API  + Fast Api + HuggingFace 
+🔹 Flutter + Gemini API  + Fast Api + HuggingFace  
 🔗 [View Project](https://github.com/m-ahsan-bilal/AI-Chat-Trivia-Game)
 
 🧠 **Tube Scriptor** — *AI-Powered YouTube Script Generator*  
 🔹 Flutter + Gemini API + MVVM Architecture  
 🔗 [View Project](https://github.com/m-ahsan-bilal/Tube-Scriptor-AI)
 
-🤖 **Sketch AR APP** — *sketch ar app*  
-🔹 Flutter + Supabase 
+🤖 **Sketch AR APP** — *Sketch AR mobile app*  
+🔹 Flutter + Supabase  
 🔗 [View Project](https://github.com/m-ahsan-bilal/sketch-_ar_mobile_app?tab=readme-ov-file)
 
-💼 **Next.js pomodoro** — *Interactive pomodoro producticity web page*  
+💼 **Next.js Pomodoro** — *Interactive productivity web app*  
 🔹 Next.js + FastAPI + Vercel  
 🔗 [View Project](https://github.com/m-ahsan-bilal/pomodoro-next.js)
 
@@ -71,10 +71,15 @@ Currently blending **Flutter + FastAPI + Next.js** to build intelligent products
   <img src="https://github-readme-stats.vercel.app/api?username=m-ahsan-bilal&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-ahsan-bilal&theme=tokyonight" height="170" />
 </p>
+<!-- 🏅 Live Current Streak Badge -->
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=m-ahsan-bilal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Current GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ahsan-bilal&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
 
 ---
 
@@ -92,9 +97,7 @@ Currently blending **Flutter + FastAPI + Next.js** to build intelligent products
   <a href="mailto:ahsan123.bilal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ahsan-bilal-90169032a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/Ahsan__Dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a> -->
 </p>
-
 
 ---
 
