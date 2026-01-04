@@ -11,25 +11,24 @@
 
 # 👋 About Me  
 
-> “Turning creative ideas into functional, AI-powered experiences.”  
+> “Turning ideas into functional, AI-powered experiences.”  
 
-🎓 CS Student | 💻 Flutter Developer | 🧠 AI Learner | 🌎 Open for Remote roles and collaborations (US-based preferred)  
+🎓 CS Student | 💻 Flutter Developer | 🧠 AI Explorer | 🌎 Remote-friendly (US preferred)  
 
-I’m passionate about crafting beautiful, scalable, and smart applications that make real-world impact.  
-Currently blending **Flutter + FastAPI + Next.js** to build intelligent products with sleek designs.
+I build **beautiful, scalable, and intelligent apps** with Flutter, FastAPI, and Next.js. I focus on clean architecture, real-time features, and AI integration.  
 
 ---
 
 ## 🧩 What I Build
-- 📱 **Cross-platform apps** using Flutter (mobile, web & desktop)  
-- ⚙️ **Backends & APIs** with Python FastAPI  
-- 🧠 **AI-driven experiences** with OpenAI, Gemini & LangChain  
+- 📱 **Cross-platform apps** with Flutter (mobile, web, desktop)  
+- ⚙️ **Backends & APIs** using Python FastAPI  
+- 🧠 **AI-driven experiences** with OpenAI, Gemini, LangChain  
 - 💻 **Modern web apps** with Next.js + TailwindCSS  
-- 🗂️ **RAG-based Chatbots** (Anthropic + Langchain + HuggingFace)
+- 🗂️ **RAG-based chatbots** powered by LangChain + HuggingFace  
 
 ---
 
-## 🛠️ My Tech Arsenal  
+## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,nextjs,react,js,html,css,git,firebase,vercel,figma,vscode,postman" />
@@ -39,59 +38,54 @@ Currently blending **Flutter + FastAPI + Next.js** to build intelligent products
 
 ## 🚀 Featured Projects  
 
-🧠 **Trivia Chat AI** — *AI-Powered Chat App with trivia play*  
-🔹 Flutter + Gemini API  + Fast Api + HuggingFace  
+🧠 **Trivia Chat AI** — AI chat app with trivia gameplay  
+🔹 Flutter + Gemini API + FastAPI + HuggingFace  
 🔗 [View Project](https://github.com/m-ahsan-bilal/AI-Chat-Trivia-Game)
 
-🧠 **Tube Scriptor** — *AI-Powered YouTube Script Generator*  
+🧠 **Tube Scriptor** — AI YouTube script generator  
 🔹 Flutter + Gemini API + MVVM Architecture  
 🔗 [View Project](https://github.com/m-ahsan-bilal/Tube-Scriptor-AI)
 
-🤖 **Sketch AR APP** — *Sketch AR mobile app*  
+🤖 **Sketch AR App** — Interactive sketch AR app  
 🔹 Flutter + Supabase  
 🔗 [View Project](https://github.com/m-ahsan-bilal/sketch-_ar_mobile_app?tab=readme-ov-file)
 
-💼 **Next.js Pomodoro** — *Interactive productivity web app*  
+💼 **Next.js Pomodoro** — Productivity web app  
 🔹 Next.js + FastAPI + Vercel  
 🔗 [View Project](https://github.com/m-ahsan-bilal/pomodoro-next.js)
 
-🛍️ **E-Commerce Web APP** — *Modern shopping app with animations and admin panel*  
+🛍️ **E-Commerce Web App** — Modern shopping app with admin panel  
 🔹 Flutter + Firebase + Custom UI  
 🔗 [View Project](https://github.com/m-ahsan-bilal/sweetchickwardrobe)
 
-🛍️ **Restaurant App** — *Modern Food Delivery app with admin panel*  
+🛍️ **Restaurant App** — Food delivery with admin dashboard  
 🔹 Flutter + Firebase + Custom UI  
 🔗 [View Project](https://github.com/m-ahsan-bilal/rhombix_technologies_tasks)
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m-ahsan-bilal&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-ahsan-bilal&theme=tokyonight" height="170" />
-</p>
-<!-- 🏅 Live Current Streak Badge -->
-<p align="center">
-  <img src="https://streak-stats.vercel.app/?user=m-ahsan-bilal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Current GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-ahsan-bilal&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+---
+
+## 🚀 Current Focus
+
+- 🐍 **FastAPI + AI automation** → Backend + AI integration  
+- 🧱 **Flutter MVVM + GetX** → Clean, scalable mobile apps  
+- ⚡ **Next.js 15 + Server Actions** → Modern web experiences  
 
 ---
 
-## 📈 Current Focus
-  
-- 🐍 **FastAPI & Automation** → AI + Backend integration  
-- 🧱 **Flutter MVVM + GetX** → Clean Architecture  
-- ⚡ **Next.js 15 + Server Actions** → Modern Web Stack  
-
----
-
-## 🌐 Let’s Connect  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="mailto:ahsan123.bilal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -101,16 +95,9 @@ Currently blending **Flutter + FastAPI + Next.js** to build intelligent products
 
 ---
 
-## 💬 Motto I Live By
+## 💬 Motto
 > _“Dream big. Stay humble. Code like the future depends on it.”_ ⚡
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
-
-<!---
-m-ahsan-bilal/m-ahsan-bilal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
